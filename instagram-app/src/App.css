@@ -1,0 +1,24 @@
+.App {
+    font-family: sans-serif;
+    /* text-align: center; */
+    display: flex;
+    width: 100%;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    /* border:2px solid red; */
+    
+
+}
+
+
+
+@keyframes App-logo-spin {
+    from {
+        transform: rotate(0deg);
+    }
+
+    to {
+        transform: rotate(360deg);
+    }
+}

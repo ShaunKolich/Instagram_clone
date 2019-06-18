@@ -1,0 +1,24 @@
+.SearchBar_Container {
+  width: 50%;
+  height: 75px;
+  border: 2px solid lightgray;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.SearchBar_Container img {
+  height: 50px;
+  width: 170px;
+}
+.SearchBar_Container .Instagram_Icons {
+  width: 200px;
+  height: 100%;
+  padding-left: 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.SearchBar_Container .Instagram_Icons i {
+  font-size: 16pt;
+  color: darkgrey;
+}
